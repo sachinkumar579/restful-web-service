@@ -8,9 +8,7 @@ Frameworks and tools used
     
 Endpoints available 
 
-Production ready endpoints 
-http://localhost:8080/health/
-http://localhost:8080/info/
+Production ready endpoints  http://localhost:8080/health/ and http://localhost:8080/info/
 
 Service endpoints
 http://localhost:8080/sayhello/
