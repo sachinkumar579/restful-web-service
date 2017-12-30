@@ -19,8 +19,8 @@ Launching the service :
 
 1.Download the zip from github 
 2.Navigate to lib folder 
-3.Open command prompt and run the below commamd 
-    java -jar restful-web-service-0.0.1.jar
+3.Open command prompt and run the below commamd
+   java -jar restful-web-service-0.0.1.jar
 4.Open browser and launch below endpoints 
   To know the health of the application     http://localhost:8080/health/
   Provides more details about the service   http://localhost:8080/info/
