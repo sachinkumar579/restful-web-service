@@ -17,11 +17,11 @@ http://localhost:8080/sayhello/
 
 Launching the service using jar : 
 
-1.Download the zip from github 
-2.Navigate to lib folder 
-3.Open command prompt and run the below commamd
-   java -jar restful-web-service-0.0.1.jar
-4.Open browser and access below endpoints 
+1. Download the zip from github 
+2. Navigate to lib folder 
+3. Open command prompt and run the below commamd
+   java -jar restful-web-service-0.0.1.jar   
+4. Open browser and access below endpoints 
   To know the health of the application         http://localhost:8080/health/
   Provides more details about the application   http://localhost:8080/info/
   A very useless endpoint that does nothing     http://localhost:8080/sayhello/
