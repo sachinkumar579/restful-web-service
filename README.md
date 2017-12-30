@@ -7,9 +7,11 @@ Frameworks and tools used
     gradle for build
     
 Endpoints available 
+
 Production ready endpoints 
 http://localhost:8080/health/
 http://localhost:8080/info/
+
 Service endpoints
 http://localhost:8080/sayhello/
 
